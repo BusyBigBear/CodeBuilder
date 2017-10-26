@@ -1,0 +1,7 @@
+1.java web项目
+2.开发工具Idea
+3.开发框架SpringMVC,Mybatis,Bootstrap
+4.数据库mysql
+5.缓存技术Redis
+6.用上设计模式
+7.日志log4j
